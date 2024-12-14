@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    color: black;
+    }
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    color: whitesmoke;
+    }
+.homebg {background-image: url('icerink.jpg');}
+
